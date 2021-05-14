@@ -11,3 +11,5 @@ lucky draw
 * list.php 可以给小秘书用来编辑人员名单，但需要php服务器。
 
 * License， MIT
+
+* 修改自 https://github.com/fouber/lottery
